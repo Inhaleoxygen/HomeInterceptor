@@ -55,12 +55,3 @@ You can compile it yourself using:
 License
 This project is open-source.
 You may modify, fork, or redistribute it freely.
-
-If you want, I can also generate:
-• 	A polished project logo
-• 	A “Releases” description
-• 	A short tagline for Downloader
-• 	A version history section
-• 	A troubleshooting section
-• 	A QR code for the APK download
-Just tell me what you want to add.
